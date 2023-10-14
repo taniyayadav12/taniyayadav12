@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taniyayadav12
+- 👋 Hi, I’m TANIYA YADAV.
 - 👀 I’m interested in learning Data Analysis and Data Science.
 - 🌱 I’m currently learning Python(Data Analysis)
 
