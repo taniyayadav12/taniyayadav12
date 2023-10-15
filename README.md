@@ -1,4 +1,5 @@
 - 👋 Hi, I’m TANIYA YADAV.
+- 📚 I'm pursuing a BTech in Computer Science and Engineering from SRM Institute of Science and Technology.
 - 👀 I’m interested in learning Data Analysis and Data Science.
 - 🌱 I’m currently learning Python(Data Analysis)
 
